@@ -20,9 +20,6 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  },
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
