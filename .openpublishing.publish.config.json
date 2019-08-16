@@ -1,47 +1,6 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "czhtest3",
-      "build_source_folder": ".",
-      "build_output_subfolder": "czhtest3",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "czhtest4",
-      "build_source_folder": ".",
-      "build_output_subfolder": "czhtest4",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "czhtest5",
-      "build_source_folder": ".",
-      "build_output_subfolder": "czhtest5",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "op"
-    },
-    {
       "docset_name": "czhtest6",
       "build_source_folder": ".",
       "build_output_subfolder": "czhtest6",
